@@ -10,6 +10,11 @@
 # a.reverse()
 # for i in range(len(a)):
 #     print(a[i])
-
+# task 3
+# a=int(input())
+# fact=1
+# for i in range(1,a+1):
+#     fact=fact*i
+# print(fact)
 
 
