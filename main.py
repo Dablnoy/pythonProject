@@ -38,14 +38,14 @@
 # else:
 #     print("No palindrome")
 
+# task 1
+# a=int(input())
+# for i in range(a,0,-1):
+#     for j in range(0,i):
+#         print(i-j,end=" ")
+#     print()
 
-
-
-
-
-
-
-# # task 2
+# task 2
 # a=(int(input()))
 # for i in range(1,a+1):
 #     for j in range(1,i+1):
