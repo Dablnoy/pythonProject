@@ -65,3 +65,9 @@
 #     return sum_numbers(n-1)+n
 # a=int(input())
 # print(sum_numbers(a))
+
+# task 3
+def is_triplet(a,b,c):
+    return a*a+b*b==c*c
+a,b,c=map(int,input().split())
+print(is_triplet(a,b,c))
