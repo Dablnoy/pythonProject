@@ -57,3 +57,11 @@
 # a=int(input())
 # b=int(input())
 # print(get_Discount(a,b))
+
+# task 2
+# def sum_numbers(n):
+#     if n==1:
+#         return 1
+#     return sum_numbers(n-1)+n
+# a=int(input())
+# print(sum_numbers(a))
