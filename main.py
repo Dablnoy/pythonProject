@@ -51,3 +51,9 @@
 #     for j in range(1,i+1):
 #         print(i, end=" ")
 #     print()
+
+# task 1
+# get_Discount = lambda a,b:(100-b)*a/100
+# a=int(input())
+# b=int(input())
+# print(get_Discount(a,b))
